@@ -1,5 +1,5 @@
-import Login from './Pages/Login';
-import Register from './Pages/Register';
+import Login from '../pages/Login';
+import Register from '../pages/Register';
 
 function App() {
   return (

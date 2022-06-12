@@ -1,6 +1,7 @@
-import Button from "../Components/Button"
+import Button from "../components/Button"
 
 const onClickHandler = () => (console.log('Cliked btn to get registered'))
+
 const Register = () => {
     return (<div>Hello from Register
         <Button onClick={onClickHandler} actionName={'Register'} />

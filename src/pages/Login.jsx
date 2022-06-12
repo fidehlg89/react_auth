@@ -1,4 +1,4 @@
-import Button from "../Components/Button"
+import Button from "../components/Button"
 
 const onClickHandler=()=>(console.log('Cliked btn to get logged'))
 
